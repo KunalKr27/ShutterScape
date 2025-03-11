@@ -10,6 +10,8 @@ Features:
 ✅ Aesthetic photography-themed layout 📷
 ✅ Pure HTML & CSS—no JavaScript required! 🚀
 
+![image alt](https://github.com/KunalKr27/ShutterScape/blob/3ab34e6c0e201780d509114e883a1b0df3e5cb8f/SS2.jpg)
+
 This project is perfect for beginners looking to explore web design and CSS styling while building a professional-looking photography website.
 
 🔗 Feel free to explore, modify, and enhance ShutterScape! 😊
